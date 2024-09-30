@@ -1,0 +1,11 @@
+[1mdiff --git a/demo.js b/demo.js[m
+[1mindex d39b3ee..71190b5 100644[m
+[1m--- a/demo.js[m
+[1m+++ b/demo.js[m
+[36m@@ -1,2 +1,3 @@[m
+ const age="25";[m
+[31m-const name="John";[m
+\ No newline at end of file[m
+[32m+[m[32mconst name="John";[m
+[32m+[m[32mh[m
+\ No newline at end of file[m
